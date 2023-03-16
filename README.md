@@ -1,4 +1,5 @@
-# BabyNamesRanking 
+#                                                                     BabyNamesRanking 
+***************************************************************************************************************************************************************
 
 # Analysis:
 - Input: the name, year, and gender they are interested in.
@@ -14,7 +15,6 @@ each year in which it appears.
 - Output: the ranking of the name for the given year and gender, or for all years in which it appears.
 If the name is not found, the program returns a message indicating that the name was not found.
 
-**********************************************************************************************************************************
 
 # Execution:
 ![run2](https://user-images.githubusercontent.com/106381596/225734042-1e1e1b8c-69a7-439d-bc8e-931d4bfcb8f8.png)
